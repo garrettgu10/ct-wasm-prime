@@ -1,0 +1,6 @@
+[submodule "wasmtime"]
+	path = wasmtime
+	url = git@github.com:garrettgu10/ct-wasmtime-2.git
+[submodule "wasm-tools"]
+	path = wasm-tools
+	url = git@github.com:garrettgu10/ct-wasm-tools-2.git
