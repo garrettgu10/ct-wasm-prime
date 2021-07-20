@@ -1,6 +1,7 @@
 #!/bin/bash
 
 PWD=`pwd`
+NJOBS=$((`nproc` / 4))
 
 mkdir results
 
